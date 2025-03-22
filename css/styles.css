@@ -1,0 +1,176 @@
+
+:root {
+  --color-light-blue: #8ecae6;
+  --color-medium-blue: #219ebc;
+  --color-dark-blue: #023047;
+  --color-yellow: #ffb703;
+  --color-orange: #fb8500;
+
+  --text-color: var(--color-dark-blue);
+  --bg-color: #f4f9fc;
+}
+
+footer {
+    padding-top: 1rem;
+    bottom: 0; 
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+h1, h2 {
+  color: var(--color-dark-blue);
+}
+
+.navbar {
+    background-color: var(--color-dark-blue);
+}
+
+.navbar-brand { color: #ffffff; font-weight: bold; }
+
+.nav-link { color: #ffffff; }
+
+.nav-link:hover { color: #ffb703; }
+
+#calendario {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#cal-tab-contenido .nav-link {
+    color: #6c757d;
+}
+
+    #cal-tab-contenido .nav-link:hover {
+        color: #ffb703;
+    }
+
+.cal-dia {
+  width: 60px;
+  height: 60px;
+  margin: 4px;
+  background: #ffffff;
+  border: 2px solid var(--color-light-blue);
+  border-radius: 12px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 14px;
+  transition: transform 0.2s, background-color 0.3s, color 0.3s;
+  display: inline-block;
+}
+
+.con-cuento {
+  background-color: var(--color-yellow);
+  color: var(--color-dark-blue);
+}
+
+.cal-dia:hover {
+  background-color: var(--color-orange);
+  color: white;
+  transform: scale(1.1);
+}
+
+button,
+.btn {
+  background-color: var(--color-medium-blue);
+  border: none;
+  color: white;
+}
+
+.btn:hover {
+  background-color: var(--color-dark-blue);
+  color: white;
+}
+
+.list-group-item {
+  border-left: 5px solid var(--color-light-blue);
+  transition: all 0.2s;
+}
+
+.list-group-item:hover {
+  background-color: var(--color-light-blue);
+  cursor: pointer;
+}
+
+
+.list-group-item.cuento-link {
+  position: relative;
+}
+
+.list-group-item.cuento-link:hover {
+  cursor: pointer;
+}
+
+.list-group-item.cuento-link:hover::after {
+  content: "📖 Leer cuento";
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  font-size: 0.9rem;
+  color: var(--color-dark-blue);
+  background: var(--color-yellow);
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+
+.cal-dia {
+  width: 60px;
+  height: 60px;
+  margin: 4px;
+  background: #ffffff;
+  border: 2px solid var(--color-light-blue);
+  border-radius: 12px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 14px;
+  transition: transform 0.2s, background-color 0.3s, color 0.3s;
+  display: inline-block;
+  color: var(--color-dark-blue);
+}
+
+.cal-dia:hover {
+  transform: none;
+  background-color: #ffffff;
+  color: var(--color-dark-blue);
+}
+
+.con-cuento {
+  background-color: var(--color-light-blue);
+  color: white;
+  font-weight: bold;
+}
+
+.con-cuento:hover {
+  background-color: var(--color-medium-blue);
+  color: white;
+  transform: scale(1.1);
+}
+
+
+#cuento-detalle {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.cuento-header {
+  border-left: 6px solid var(--color-light-blue);
+  padding-left: 12px;
+  margin-bottom: 20px;
+}
+
+.cuento-header h2 {
+  margin-bottom: 0;
+  color: var(--color-dark-blue);
+}
+
+.cuento-header .info {
+  font-size: 0.9rem;
+  color: var(--color-medium-blue);
+}

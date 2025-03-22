@@ -1,0 +1,394 @@
+[
+  {
+    "fecha": "2025-03-01",
+    "titulo": "La Ilíada",
+    "autor": "Homero",
+    "pais": "Grecia",
+    "epoca": "Siglo VIII a.C.",
+    "contenido": "Había una guerra muy grande en Troya.\nLos griegos luchaban con valentía.\nAquiles era un gran guerrero.\nEstaba muy enfadado y no quería pelear.\nPero su amigo Patroclo fue herido.\nEntonces Aquiles volvió a luchar con fuerza.\nCorrió por el campo de batalla.\nSu corazón estaba lleno de emoción.\nLa guerra terminó con muchas lágrimas.\nY todos recordaron la valentía de Aquiles.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-02",
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "pais": "Grecia",
+    "epoca": "Siglo VIII a.C.",
+    "contenido": "Odiseo quería volver a casa con su familia.\nViajó por mares lejanos.\nConoció monstruos y sirenas.\nTambién visitó islas mágicas.\nLuchó contra gigantes y escapó de trampas.\nSiempre pensaba en su hogar.\nPasaron muchos, muchos años.\nPero al final, Odiseo volvió.\nSu familia lo abrazó con amor.\nY todos celebraron su regreso.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-03",
+    "titulo": "Edipo Rey",
+    "autor": "Sófocles",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Edipo era un rey valiente.\nQuería salvar a su ciudad de un gran problema.\nBuscó la verdad con todas sus fuerzas.\nHabló con sabios y escuchó señales.\nDescubrió un secreto muy triste.\nSin saberlo, había hecho algo muy grave.\nEdipo se puso muy triste.\nPero aceptó la verdad con valor.\nDejó su corona y se fue lejos.\nTodos recordaron su historia con respeto.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-04",
+    "titulo": "Antígona",
+    "autor": "Sófocles",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Antígona era una joven muy valiente.\nQuería cuidar a su familia.\nEl rey dijo que no podía hacerlo.\nPero ella siguió su corazón.\nHizo lo que creía justo.\nEl rey se enfadó mucho.\nPero luego entendió que se había equivocado.\nFue tarde para cambiarlo.\nAntígona fue recordada como una heroína.\nPor seguir lo correcto, aunque fuera difícil.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-05",
+    "titulo": "Prometeo encadenado",
+    "autor": "Esquilo",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Prometeo era un titán muy bueno.\nQuiso ayudar a los humanos.\nLes dio el fuego para que vivieran mejor.\nPero los dioses se enfadaron mucho.\nLo ataron a una roca.\nPrometeo aguantó con valentía.\nSabía que había hecho lo correcto.\nEl tiempo pasó y llegó la libertad.\nFue un símbolo de valor y esperanza.\nY todos lo admiraron por su amor a la humanidad.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-06",
+    "titulo": "Medea",
+    "autor": "Eurípides",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Medea era una mujer mágica.\nAyudó a su esposo en muchas aventuras.\nPero él la traicionó.\nElla se puso muy triste y muy enfadada.\nHizo cosas que nadie entendía.\nSu corazón estaba roto.\nEra fuerte pero también sufría.\nSu historia es de amor y dolor.\nY nos recuerda que las emociones son poderosas.\nY que siempre hay que cuidar el corazón.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-07",
+    "titulo": "Lisístrata",
+    "autor": "Aristófanes",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Lisístrata quería que la guerra terminara.\nJunto a otras mujeres, hizo un plan.\nTodas dijeron: ¡no más guerra!\nQuerían paz para sus familias.\nLos hombres al principio se enfadaron.\nPero luego escucharon.\nVieron que la paz era mejor.\nLas mujeres fueron muy valientes.\nY todos vivieron tranquilos y contentos.\nPorque la paz ganó al final.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-08",
+    "titulo": "La República",
+    "autor": "Platón",
+    "pais": "Grecia",
+    "epoca": "Siglo IV a.C.",
+    "contenido": "Un sabio llamado Sócrates hablaba con amigos.\nQuerían saber qué es la justicia.\nSoñaban con una ciudad ideal.\nDonde todos ayudaran y vivieran bien.\nLos sabios enseñaban, los valientes cuidaban.\nY los demás vivían con alegría.\nEra un lugar justo y feliz.\nHablaban mucho y pensaban juntos.\nQuerían hacer del mundo un lugar mejor.\nY sus ideas siguen vivas hoy.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-09",
+    "titulo": "Ética a Nicómaco",
+    "autor": "Aristóteles",
+    "pais": "Grecia",
+    "epoca": "Siglo IV a.C.",
+    "contenido": "Aristóteles hablaba con su hijo.\nLe contaba cómo ser bueno y feliz.\nDecía que hay que hacer el bien.\nQue hay que ser valiente, justo y sabio.\nTambién hay que tener amigos.\nY pensar antes de actuar.\nSer feliz es hacer lo correcto.\nLa bondad se aprende cada día.\nY con práctica, se vuelve natural.\nAsí se vive una vida hermosa.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-10",
+    "titulo": "Las Historias",
+    "autor": "Heródoto",
+    "pais": "Grecia",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Heródoto escuchaba muchos cuentos.\nLos escribía para que no se olvidaran.\nHablaba de reyes y batallas.\nDe lugares lejanos y culturas distintas.\nCada historia era una aventura.\nHabía héroes y decisiones valientes.\nTambién errores y aprendizajes.\nContar historias era su forma de enseñar.\nGracias a él, sabemos del pasado.\nY aprendemos del mundo antiguo.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Grecia Antigua"
+    ]
+  },
+  {
+    "fecha": "2025-03-11",
+    "titulo": "La Eneida",
+    "autor": "Virgilio",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Eneas era un héroe valiente.\nEscapó de la ciudad de Troya.\nViajó por mares y tierras con sus amigos.\nBuscaba un nuevo hogar para su gente.\nPasó por tormentas y aventuras.\nConoció dioses y monstruos.\nSoñaba con fundar una ciudad.\nDespués de muchas pruebas, llegó a Italia.\nAllí comenzó la historia de Roma.\nY Eneas fue recordado como su gran fundador.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-12",
+    "titulo": "Las Metamorfosis",
+    "autor": "Ovidio",
+    "pais": "Roma",
+    "epoca": "Siglo I d.C.",
+    "contenido": "Había dioses, héroes y humanos.\nY todos cambiaban de forma.\nUna niña se volvió laurel.\nUn joven se hizo estatua.\nUn hombre voló con alas de cera.\nEl mundo estaba lleno de magia.\nCada historia era una transformación.\nLos ríos hablaban, los árboles cantaban.\nTodo podía cambiar en un instante.\nY la imaginación no tenía fin.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-13",
+    "titulo": "De Rerum Natura",
+    "autor": "Lucrecio",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Lucrecio hablaba de la naturaleza.\nDecía que todo está hecho de átomos.\nEl cielo, la tierra y el mar.\nNada aparece de la nada.\nY todo se transforma con el tiempo.\nNos enseñaba a no tener miedo.\nLa vida es bella y hay que disfrutarla.\nConocer el mundo es maravilloso.\nY pensar con calma nos hace sabios.\nAsí entendemos mejor lo que nos rodea.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-14",
+    "titulo": "Las Bucólicas",
+    "autor": "Virgilio",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Los pastores cantaban en el campo.\nHablaban de amor, amistad y naturaleza.\nLas ovejas pastaban tranquilas.\nLos árboles daban sombra suave.\nLos ríos sonaban como canciones.\nLa vida rural era sencilla y feliz.\nHabía paz en cada rincón.\nLas flores abrían con el sol.\nTodo era belleza en el campo.\nY los corazones estaban llenos de calma.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-15",
+    "titulo": "Las Geórgicas",
+    "autor": "Virgilio",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Los campos necesitan cuidado y amor.\nLos agricultores trabajan con sus manos.\nLa tierra da frutas, trigo y flores.\nLas abejas hacen miel dorada.\nEl sol y la lluvia ayudan a crecer.\nEl trabajo es duro, pero hermoso.\nLa naturaleza es amiga del hombre.\nVirgilio enseñaba a respetar el campo.\nCada semilla es un tesoro.\nY la vida rural está llena de sabiduría.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-16",
+    "titulo": "Ab Urbe Condita",
+    "autor": "Tito Livio",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Roma nació de dos hermanos: Rómulo y Remo.\nFueron criados por una loba.\nRómulo fundó la gran ciudad.\nRoma creció con fuerza y valor.\nMuchos héroes lucharon por ella.\nLos romanos amaban su historia.\nTito Livio la escribió para recordarla.\nContó guerras, pactos y leyendas.\nCada parte mostraba el alma de Roma.\nUna ciudad nacida para durar.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-17",
+    "titulo": "Los Comentarios sobre la guerra de las Galias",
+    "autor": "Julio César",
+    "pais": "Roma",
+    "epoca": "Siglo I a.C.",
+    "contenido": "Julio César fue un gran general.\nViajó al norte, a la tierra de los galos.\nLuchó muchas batallas con su ejército.\nEscribía lo que pasaba cada día.\nDescribía montañas, ríos y pueblos lejanos.\nSus soldados eran valientes.\nÉl era listo y decidido.\nContó todo con palabras claras.\nAsí Roma conocía sus hazañas.\nY él fue recordado como líder y escritor.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-18",
+    "titulo": "La Sátira",
+    "autor": "Juvenal",
+    "pais": "Roma",
+    "epoca": "Siglo I d.C.",
+    "contenido": "Juvenal observaba la ciudad.\nVeía cosas graciosas y también injustas.\nHablaba de ricos y pobres.\nDe los que mandan y de los que callan.\nUsaba la risa para decir la verdad.\nCon sus poemas, hacía pensar a todos.\nCriticaba lo malo con ingenio.\nMostraba los errores con humor.\nLa sátira era un espejo.\nY todos podían aprender al mirarlo.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-19",
+    "titulo": "Las Epístolas",
+    "autor": "Séneca",
+    "pais": "Roma",
+    "epoca": "Siglo I d.C.",
+    "contenido": "Séneca escribía cartas a su amigo.\nLe hablaba de la vida y del alma.\nDecía que hay que ser buenos.\nQue la calma es mejor que el enojo.\nQue la sabiduría viene con el tiempo.\nY que la virtud es lo más grande.\nPensar con el corazón es importante.\nLas palabras pueden dar consuelo.\nY una carta puede cambiar el día.\nSéneca enseñaba con amor y claridad.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-20",
+    "titulo": "Las Metamorfosis o El Asno de Oro",
+    "autor": "Apuleyo",
+    "pais": "Roma",
+    "epoca": "Siglo II d.C.",
+    "contenido": "Un hombre quería saber magia.\nPero algo salió mal.\nSe convirtió en un burrito.\nViajó por muchos lugares.\nVivió aventuras divertidas y peligrosas.\nEscuchó historias mágicas por el camino.\nAprendió sobre el mundo y sobre sí mismo.\nAl final, volvió a ser humano.\nY comprendió lo importante que es el alma.\nSu viaje fue un cuento lleno de magia.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo",
+      "Roma"
+    ]
+  },
+  {
+    "fecha": "2025-03-21",
+    "titulo": "La Epopeya de Gilgamesh",
+    "autor": "Anónimo",
+    "pais": "Sumeria / Acadia",
+    "epoca": "Siglo XXI a.C.",
+    "contenido": "Gilgamesh era un rey fuerte y valiente.\nTenía un gran amigo llamado Enkidu.\nJuntos vivieron aventuras emocionantes.\nLucharon contra monstruos y viajaron lejos.\nCuando Enkidu murió, Gilgamesh se puso muy triste.\nEntonces buscó el secreto de la vida eterna.\nHabló con sabios y cruzó montañas.\nAprendió que todos debemos vivir bien, no para siempre.\nEntendió que la amistad es un tesoro.\nY volvió a casa más sabio y en paz.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-22",
+    "titulo": "Las Analectas de Confucio",
+    "autor": "Confucio",
+    "pais": "China",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Confucio fue un sabio muy querido.\nEnseñaba a ser amable y justo.\nDecía: trata a los demás como quieres que te traten.\nHablaba de respetar a los mayores.\nY de ayudar a los amigos.\nSus palabras eran cortas pero sabias.\nLos niños y niñas aprendían a vivir bien.\nDecía que la paz empieza en casa.\nCon buenas acciones cada día.\nY su voz sigue viva en todo el mundo.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-23",
+    "titulo": "El Periplo de Hannón",
+    "autor": "Hannón el Navegante",
+    "pais": "Cartago",
+    "epoca": "Siglo V a.C.",
+    "contenido": "Hannón era un marinero valiente.\nSubió a su barco y miró al mar.\nQuería explorar lugares lejanos.\nNavegó por la costa de África.\nVio animales nuevos y montañas de fuego.\nEscribía lo que veía.\nHabía pueblos distintos y paisajes asombrosos.\nNo siempre entendía todo, pero lo respetaba.\nSu viaje fue largo y sorprendente.\nY al volver, contó historias del mundo.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-24",
+    "titulo": "El Libro de los Muertos",
+    "autor": "Anónimo",
+    "pais": "Egipto",
+    "epoca": "Siglo XVI a.C.",
+    "contenido": "En Egipto, las personas creían en la vida después de la muerte.\nQuerían que su alma viajara segura.\nEl Libro de los Muertos era una guía.\nCon palabras mágicas y dibujos.\nDecía cómo pasar por ríos, puertas y pruebas.\nEl corazón debía ser bueno y ligero.\nSi lo era, encontraba la paz eterna.\nLos dioses lo cuidaban en el camino.\nAsí, la vida seguía más allá.\nY el alma descansaba en alegría.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-25",
+    "titulo": "La Bhagavad-gītā",
+    "autor": "Anónimo",
+    "pais": "India",
+    "epoca": "Siglo III a.C.",
+    "contenido": "Arjuna era un guerrero confundido.\nNo quería luchar en una gran batalla.\nEntonces habló con Krishna, su guía.\nKrishna le habló del deber y del alma.\nLe dijo que el alma nunca muere.\nQue lo importante es actuar con bondad.\nArjuna escuchó con atención.\nEntendió que debía hacer lo correcto.\nLuchó con el corazón en paz.\nY sus dudas se convirtieron en sabiduría.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-26",
+    "titulo": "El Mahābhārata",
+    "autor": "Vyāsa",
+    "pais": "India",
+    "epoca": "Siglo III a.C.",
+    "contenido": "Había dos familias que peleaban por un reino.\nLos Pāṇḍavas eran justos y valientes.\nLos Kauravas querían el poder.\nHubo una gran guerra.\nMuchos héroes lucharon con honor.\nHabía magia, sabiduría y batallas.\nKrishna ayudaba con sus consejos.\nFue una historia de familia, deber y fe.\nLos Pāṇḍavas aprendieron del dolor.\nY el mundo cambió para siempre.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-27",
+    "titulo": "El Ramayana",
+    "autor": "Valmiki",
+    "pais": "India",
+    "epoca": "Siglo III a.C.",
+    "contenido": "Rama era un príncipe bueno.\nSu esposa Sita fue llevada lejos por un demonio.\nRama viajó con su hermano y el mono Hanuman.\nBuscaron a Sita por montañas y bosques.\nLucharon contra monstruos con valentía.\nRama rescató a Sita con amor.\nVolvieron a casa felices.\nY todos los recordaron como héroes.\nPorque el amor y el bien siempre ganan.\nY la familia es lo más importante.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-28",
+    "titulo": "El Tao Te Ching",
+    "autor": "Lao Tsé",
+    "pais": "China",
+    "epoca": "Siglo VI a.C.",
+    "contenido": "Lao Tsé era un sabio muy tranquilo.\nDecía que hay que fluir como el agua.\nQue lo suave es más fuerte que lo duro.\nHablaba del camino, el Tao.\nY de vivir con calma y bondad.\nDecía que el silencio enseña mucho.\nQue quien no pelea, gana más.\nSus palabras eran como viento suave.\nY enseñaban a vivir en armonía.\nEl Tao era paz, y también amor.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-29",
+    "titulo": "El Libro de los Cambios (I Ching)",
+    "autor": "Anónimo",
+    "pais": "China",
+    "epoca": "Siglo IX a.C.",
+    "contenido": "Este libro hablaba de cómo cambia todo.\nEl cielo cambia, la tierra cambia.\nLas personas también cambian cada día.\nMostraba símbolos con líneas.\nCada símbolo tenía un mensaje.\nAyudaba a tomar decisiones con sabiduría.\nDecía que hay momentos de esperar.\nY momentos de actuar.\nQue todo tiene su tiempo.\nY que el cambio puede ser bueno.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-30",
+    "titulo": "El Popol Vuh",
+    "autor": "Anónimo",
+    "pais": "Pueblo Maya",
+    "epoca": "Siglo XVI",
+    "contenido": "Los dioses mayas crearon el mundo.\nPrimero hicieron barro, pero se rompía.\nLuego madera, pero no tenía alma.\nPor fin, hicieron personas de maíz.\nEl maíz era la vida.\nTambién había héroes gemelos.\nLucharon en el inframundo.\nGanaron con inteligencia y valor.\nEl cielo, el sol y la luna nacieron.\nY comenzó la historia del pueblo maya.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  },
+  {
+    "fecha": "2025-03-31",
+    "titulo": "El Avesta",
+    "autor": "Zaratustra",
+    "pais": "Persia",
+    "epoca": "Siglo VI a.C.",
+    "contenido": "Zaratustra era un sabio de Persia.\nDecía que el bien y el mal existen.\nY que debemos elegir el bien.\nEl fuego era símbolo de luz y verdad.\nEnseñaba a cuidar la naturaleza.\nA decir la verdad y a ayudar a otros.\nDios se llamaba Ahura Mazda.\nY quería paz en el mundo.\nLas palabras buenas eran como semillas.\nY el amor era la mejor elección.",
+    "edad": "0-2 años",
+    "series": [
+      "Mundo antiguo"
+    ]
+  }
+]

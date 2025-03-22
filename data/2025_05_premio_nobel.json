@@ -1,0 +1,363 @@
+[
+  {
+    "fecha": "2025-05-01",
+    "titulo": "Gitanjali",
+    "autor": "Rabindranath Tagore",
+    "pais": "India",
+    "epoca": "Siglo XX",
+    "contenido": "Tagore escribía poemas como canciones.\nHablaba del alma, del cielo y del amor.\nSus palabras eran como flores suaves.\nDecía que el sol entra en el corazón.\nQue lo simple es lo más bello.\nQue Dios está en cada rayo de luz.\nSus versos abrazaban como mamá.\nY cada uno era una sonrisa.\nPorque amar es lo más grande.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Asiática"
+    ]
+  },
+  {
+    "fecha": "2025-05-02",
+    "titulo": "El sonido y la furia",
+    "autor": "William Faulkner",
+    "pais": "Estados Unidos",
+    "epoca": "Siglo XX",
+    "contenido": "Una familia vivía en el sur.\nHabía tristeza, recuerdos y silencios.\nUn niño veía el mundo sin entender.\nLos días eran confusos, como sueños.\nPero también había cariño y ternura.\nA veces el tiempo se detenía.\nY otras veces corría como el viento.\nLa familia se cuidaba como podía.\nPorque aunque todo cambie, el amor queda.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-03",
+    "titulo": "Ternura",
+    "autor": "Gabriela Mistral",
+    "pais": "Chile",
+    "epoca": "Siglo XX",
+    "contenido": "Gabriela hablaba con voz de madre.\nSus poemas eran caricias y canciones.\nDecía: «duerme, que yo velo por ti».\nSus palabras eran suaves como luna.\nCantaba al amor, al dolor y a los niños.\nSu corazón era una cuna de versos.\nY cada línea era un abrazo.\nPor eso la amaban tanto.\nPorque su poesía era ternura pura.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-04",
+    "titulo": "El extranjero",
+    "autor": "Albert Camus",
+    "pais": "Francia",
+    "epoca": "Siglo XX",
+    "contenido": "Había un hombre que miraba el mundo.\nNo decía mucho, pero pensaba mucho.\nEl sol le pesaba en los ojos.\nA veces no entendía lo que pasaba.\nPero aprendió que la vida es un misterio.\nQue sentir es parte de estar vivo.\nY que aceptar la vida como es,\nes también una forma de amar.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-05",
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "pais": "Alemania",
+    "epoca": "Siglo XX",
+    "contenido": "Siddhartha era un joven que buscaba paz.\nViajó por ríos y montañas.\nHabló con sabios y escuchó su corazón.\nA veces estuvo solo, otras acompañado.\nQuería entender la vida y el alma.\nDescubrió que todo está en uno mismo.\nY que el río canta si lo oyes.\nAl final, sonrió con calma.\nPorque encontró lo que buscaba: paz.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-06",
+    "titulo": "Poemas",
+    "autor": "Wislawa Szymborska",
+    "pais": "Polonia",
+    "epoca": "Siglo XX",
+    "contenido": "Wislawa escribía sobre las cosas pequeñas.\nMiraba una piedra y veía el mundo.\nPreguntaba con dulzura y humor.\nVeía magia en un botón o una nube.\nDecía que lo raro es vivir.\nY que los porqués también son lindos.\nSus versos eran juegos tranquilos.\nY cada uno dejaba una chispa.\nPorque pensar también es jugar.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-07",
+    "titulo": "Odas elementales",
+    "autor": "Pablo Neruda",
+    "pais": "Chile",
+    "epoca": "Siglo XX",
+    "contenido": "Pablo escribía odas a lo simple.\nA una cebolla, a una mesa, a la sal.\nAmaba todo lo que nos rodea.\nDecía que las cosas hablan.\nSus poemas eran cantos del corazón.\nJugaba con palabras como niño.\nVeía el mundo con ojos de amor.\nY decía: todo importa.\nPorque hasta lo más pequeño es poesía.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-08",
+    "titulo": "El cuento de la isla desconocida",
+    "autor": "José Saramago",
+    "pais": "Portugal",
+    "epoca": "Siglo XX",
+    "contenido": "Un hombre quería encontrar una isla que nadie conocía.\nFue a pedir un barco.\nLe dijeron que no existía esa isla.\nPero él insistió.\nPorque soñaba con lo que no se ve.\nUna mujer lo acompañó.\nJuntos salieron al mar.\nLa isla no se veía…\npero estaba en su corazón.\nY los sueños los llevaron muy lejos.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-09",
+    "titulo": "El cuaderno dorado",
+    "autor": "Doris Lessing",
+    "pais": "Reino Unido",
+    "epoca": "Siglo XX",
+    "contenido": "Anna escribía en cuadernos de colores.\nUno para la vida, otro para los sueños.\nOtro para el amor, otro para pensar.\nA veces estaba triste.\nPero nunca dejaba de escribir.\nJuntó todos los cuadernos en uno dorado.\nY en él puso su verdad.\nPorque escribir era su forma de vivir.\nY de sanar el corazón.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-10",
+    "titulo": "Beloved",
+    "autor": "Toni Morrison",
+    "pais": "Estados Unidos",
+    "epoca": "Siglo XX",
+    "contenido": "Había una casa con recuerdos fuertes.\nUna mamá y su hija vivían allí.\nLa historia dolía, pero también sanaba.\nEl pasado hablaba como un susurro.\nPero el amor era más fuerte.\nLa madre cuidaba con todo su ser.\nY juntas abrazaban la vida.\nPorque el amor no se va.\nEl amor siempre vuelve.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-11",
+    "titulo": "Trilogía de El Cairo",
+    "autor": "Naguib Mahfuz",
+    "pais": "Egipto",
+    "epoca": "Siglo XX",
+    "contenido": "Una familia vivía en El Cairo.\nLas calles tenían olor a pan y especias.\nLos niños crecían con cuentos y canciones.\nEl padre era serio, la madre muy dulce.\nLos días pasaban con risas y desafíos.\nEl mundo cambiaba afuera.\nPero el amor los unía dentro.\nEra una historia de familia y esperanza.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Asiática"
+    ]
+  },
+  {
+    "fecha": "2025-05-12",
+    "titulo": "Mi nombre es Rojo",
+    "autor": "Orhan Pamuk",
+    "pais": "Turquía",
+    "epoca": "Siglo XX",
+    "contenido": "Los colores hablaban en los cuadros.\nEl rojo decía: aquí estoy.\nLos pintores contaban historias con pinceles.\nHabía misterio, amor y secretos.\nUn dibujo podía guardar una emoción.\nEl arte era una forma de soñar.\nY cada página tenía magia.\nPorque el arte también es un cuento.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Asiática"
+    ]
+  },
+  {
+    "fecha": "2025-05-13",
+    "titulo": "Una cuestión personal",
+    "autor": "Kenzaburō Ōe",
+    "pais": "Japón",
+    "epoca": "Siglo XX",
+    "contenido": "Un papá tenía un bebé especial.\nAl principio tenía miedo.\nNo sabía qué hacer.\nPero poco a poco lo miró con amor.\nAprendió a querer sin condiciones.\nEl bebé le enseñó a ser fuerte.\nA ver la belleza en lo distinto.\nY el papá cambió para siempre.\nPorque amar transforma todo.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Asiática"
+    ]
+  },
+  {
+    "fecha": "2025-05-14",
+    "titulo": "Cuentos",
+    "autor": "Alice Munro",
+    "pais": "Canadá",
+    "epoca": "Siglo XXI",
+    "contenido": "Alice contaba cuentos de la vida.\nDe familias, de amigas, de recuerdos.\nLas cosas pequeñas eran importantes.\nUna carta, una tarde, una mirada.\nSu voz era suave como una nana.\nY sus cuentos abrazaban como mantas.\nCada palabra era sencilla y verdadera.\nY por eso, todos la querían.\nPorque en lo simple hay amor.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+   {
+    "fecha": "2025-05-15",
+    "titulo": "Las uvas de la ira",
+    "autor": "John Steinbeck",
+    "pais": "Estados Unidos",
+    "epoca": "Siglo XX",
+    "contenido": "Una familia viajaba en busca de trabajo.\nLa tierra estaba seca y el viento fuerte.\nTenían poco, pero se cuidaban mucho.\nCompartían pan y esperanzas.\nLa abuela contaba cuentos en la noche.\nLos niños miraban el cielo con sueños.\nEl amor los mantenía unidos.\nY aunque era difícil, seguían adelante.\nPorque la familia es fuerza.\nY la esperanza nunca se va.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-16",
+    "titulo": "Demian",
+    "autor": "Hermann Hesse",
+    "pais": "Alemania",
+    "epoca": "Siglo XX",
+    "contenido": "Un niño buscaba quién era.\nEscuchaba voces del corazón.\nVeía cosas que otros no veían.\nUn amigo le hablaba de luz y sombra.\nCrecía con preguntas y sueños.\nAprendía que todo está dentro.\nY que la verdad es un viaje.\nPaso a paso, se volvió sabio.\nY su alma brilló como el sol.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-17",
+    "titulo": "El tambor de hojalata",
+    "autor": "Günter Grass",
+    "pais": "Alemania",
+    "epoca": "Siglo XX",
+    "contenido": "Óscar no quería crecer.\nTocaba un tambor muy fuerte.\nContaba lo que otros callaban.\nLa ciudad tenía ruido y secretos.\nÉl miraba todo desde abajo.\nEl tambor era su voz.\nY con él decía la verdad.\nAunque era pequeño, era valiente.\nPorque a veces los niños ven más claro.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-18",
+    "titulo": "La fiesta del chivo",
+    "autor": "Mario Vargas Llosa",
+    "pais": "Perú",
+    "epoca": "Siglo XXI",
+    "contenido": "Un país vivía con miedo.\nUn jefe mandaba con fuerza.\nPero la gente soñaba con libertad.\nUna mujer volvía a su tierra.\nRecordaba cosas tristes y valientes.\nHabía quienes callaban, y quienes luchaban.\nEl cambio era lento como río.\nPero el sol empezaba a salir.\nPorque ningún miedo dura para siempre.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-19",
+    "titulo": "El tambor de papel",
+    "autor": "Tomas Tranströmer",
+    "pais": "Suecia",
+    "epoca": "Siglo XX",
+    "contenido": "Tomas escribía como si soñara.\nSus poemas eran puentes de palabras.\nHablaba del hielo, de los trenes, del alma.\nMiraba el mundo desde lo invisible.\nCada imagen era como una estrella.\nSus versos caminaban en silencio.\nY tocaban el corazón sin hacer ruido.\nPorque la poesía es un susurro eterno.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-20",
+    "titulo": "El arco iris de gravedad",
+    "autor": "Bob Dylan",
+    "pais": "Estados Unidos",
+    "epoca": "Siglo XX",
+    "contenido": "Bob cantaba con su guitarra.\nSus letras eran cuentos con ritmo.\nHablaba de trenes, caminos y amores.\nSu voz era fuerte y suave a la vez.\nCantaba verdades que otros callaban.\nY hacía poesía con música.\nSus canciones eran como viento.\nQue entraban en el alma sin pedir permiso.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-21",
+    "titulo": "La hora de la estrella",
+    "autor": "Clarice Lispector",
+    "pais": "Brasil",
+    "epoca": "Siglo XX",
+    "contenido": "Macabea era una chica sencilla.\nVivía con poco, soñaba con mucho.\nNadie la notaba, pero ella brillaba.\nMiraba las estrellas y sonreía.\nEra frágil como flor de viento.\nPero su luz era única.\nLa vida era dura, pero ella seguía.\nPorque hasta lo invisible tiene belleza.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-22",
+    "titulo": "La tregua",
+    "autor": "Mario Benedetti",
+    "pais": "Uruguay",
+    "epoca": "Siglo XX",
+    "contenido": "Martín vivía solo y en silencio.\nUn día conoció a Laura.\nY todo cambió como el sol tras la lluvia.\nLa vida le dio una pausa feliz.\nRieron, caminaron, se abrazaron.\nPero la alegría duró poco.\nY volvió el silencio.\nAun así, Martín sonreía.\nPorque tuvo un momento de luz.\nY eso lo guardó para siempre.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-23",
+    "titulo": "El lugar sin límites",
+    "autor": "José Donoso",
+    "pais": "Chile",
+    "epoca": "Siglo XX",
+    "contenido": "En un pueblo pequeño había secretos.\nPersonas que soñaban con ser libres.\nUn lugar lleno de voces distintas.\nUn hombre bailaba con tacones.\nTodos lo miraban raro.\nPero él era feliz siendo él mismo.\nEl amor no tenía forma.\nY la verdad brillaba en lo escondido.\nPorque todos merecen ser como son.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-24",
+    "titulo": "En la orilla",
+    "autor": "Rafael Chirbes",
+    "pais": "España",
+    "epoca": "Siglo XXI",
+    "contenido": "Un hombre vivía junto al mar.\nRecordaba el pasado como si fuera hoy.\nMiraba las ruinas de su tierra.\nPensaba en su padre, en su vida.\nEl agua le hablaba con olas.\nY el silencio lo llenaba todo.\nPero en cada recuerdo había amor.\nPorque la memoria también es hogar.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-25",
+    "titulo": "La montaña mágica",
+    "autor": "Thomas Mann",
+    "pais": "Alemania",
+    "epoca": "Siglo XX",
+    "contenido": "Hans fue a una montaña a visitar a su primo.\nEl aire era frío y tranquilo.\nSe quedó mucho tiempo.\nAllí pensaba, escuchaba, aprendía.\nLos días pasaban lentos como nieve.\nEl mundo afuera era distinto.\nPero él encontraba respuestas en el silencio.\nPorque a veces, parar también es crecer.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  },
+  {
+    "fecha": "2025-05-26",
+    "titulo": "El hacedor",
+    "autor": "Jorge Luis Borges",
+    "pais": "Argentina",
+    "epoca": "Siglo XX",
+    "contenido": "Borges soñaba con libros y laberintos.\nEscribía sobre espejos y tigres.\nDecía que somos lo que recordamos.\nQue el tiempo gira como un cuento.\nSus palabras eran como hilos mágicos.\nCada texto era un misterio bonito.\nY su voz nos hablaba bajito.\nPorque leer es mirar hacia adentro.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-27",
+    "titulo": "El paraíso en la otra esquina",
+    "autor": "Mario Vargas Llosa",
+    "pais": "Perú",
+    "epoca": "Siglo XXI",
+    "contenido": "Flora soñaba con cambiar el mundo.\nSu nieto soñaba con pintar el paraíso.\nLos dos buscaban algo muy lejos.\nPero también muy dentro de sí mismos.\nSus caminos eran distintos.\nPero el deseo era el mismo: amar.\nEl arte y la lucha eran su lenguaje.\nY juntos encontraron su rincón del cielo.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Latinoamericana"
+    ]
+  },
+  {
+    "fecha": "2025-05-28",
+    "titulo": "Todo se desmorona",
+    "autor": "Chinua Achebe",
+    "pais": "Nigeria",
+    "epoca": "Siglo XX",
+    "contenido": "Okonkwo era fuerte y valiente.\nVivía en su aldea con orgullo.\nPero llegaron cambios de fuera.\nY todo empezó a romperse.\nLa tradición y lo nuevo peleaban.\nÉl no quería perder su mundo.\nPero el tiempo no se detiene.\nY aprendió que el cambio también duele.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel",
+      "Africana"
+    ]
+  },
+  {
+    "fecha": "2025-05-29",
+    "titulo": "La sangre de los otros",
+    "autor": "Simone de Beauvoir",
+    "pais": "Francia",
+    "epoca": "Siglo XX",
+    "contenido": "Una mujer pensaba en la libertad.\nLa guerra traía miedo y preguntas.\n¿Vale la pena luchar?\n¿Podemos elegir sin dañar?\nElla buscaba sentido en medio del ruido.\nY decía que vivir es decidir.\nCon amor, con dudas, con fuerza.\nPorque la libertad también es amor.",
+    "edad": "0-2 años",
+    "series": [
+      "Premio Nobel"
+    ]
+  }
+]
