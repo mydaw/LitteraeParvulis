@@ -15,9 +15,11 @@ $(document).ready(function () {
             const cuento = data.find(c => c.fecha === hoy);
             if (cuento) {
                 const html = `
-                    <div class="cuento-header"><h2>${cuento.titulo}</h2>
-                    <div class="info"><strong>${cuento.autor}</strong> – ${cuento.pais}, ${cuento.epoca}</div></div>
-                    <div>${cuento.contenido.replace(/\n/g, '<br><br>')}</div>`;
+                    <div class="cuento-header">
+                    <h2>${cuento.titulo}</h2>
+                    <div class="info"><strong>${cuento.autor}</strong> – ${cuento.pais}, ${cuento.epoca}</div>
+                    </div>
+                    <div class="cuento-contenido">${cuento.contenido.replace(/\n/g, '<br>')}</div>`;
                 $("#cuento-hoy").html(html);
             } else {
                 $("#cuento-hoy").text("No hay cuento para hoy.");
@@ -39,7 +41,7 @@ $(document).ready(function () {
                 let calendarioHtml = "";
 
                 for (let m = 0; m < 12; m++) {
-                    calendarioHtml += `<h4 class='mt-4'>${months[m]}</h4><div class='d-flex flex-wrap'>`;
+                    calendarioHtml += `<h4 class='mt-4'>${months[m]}</h4><div class='d-flex flex-wrap justify-content-center'>`;
                     let date = new Date(year, m, 1);
                     while (date.getMonth() === m) {
                         const fecha = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
@@ -65,7 +67,7 @@ $(document).ready(function () {
                     </li>
                 `);
                 $content.append(`
-                    <div class="tab-pane fade ${i === 0 ? "show active" : ""}" id="year-${year}" role="tabpanel">
+                    <div class="tab-pane fade ${i === 0 ? "show active" : ""} anio-panel" id="year-${year}" role="tabpanel">
                         ${renderCalendarHtml(year)}
                     </div>
                 `);
@@ -93,7 +95,7 @@ $(document).ready(function () {
         }
 
         // Cuento aleatorio
-        $(document).on("click", "#btn-aleatorio", function () {
+        $(document).on("click", ".btn-aleatorio", function () {
             const random = data[Math.floor(Math.random() * data.length)];
             window.location.href = `cuento.html?fecha=${random.fecha}`;
         });
@@ -110,5 +112,4 @@ $(document).ready(function () {
             window.location.href = `cuento.html?fecha=${fecha}`;
         });
     });
-
 });

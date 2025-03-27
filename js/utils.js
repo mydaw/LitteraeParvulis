@@ -2,11 +2,11 @@
 
 // Lista de archivos solo una vez
 const ARCHIVOS_CUENTOS = [
-    "data/2025_01_latinoamericana.json",
-    "data/2025_02_siglo_de_oro.json",
-    "data/2025_03_mundo_antiguo.json",
-    "data/2025_04_europa_medieval.json",
-    "data/2025_05_premio_nobel.json"
+    "data/2025_04_latinoamericana.json",
+    "data/2025_05_siglo_de_oro.json",
+    "data/2025_06_mundo_antiguo.json",
+    "data/2025_07_europa_medieval.json",
+    "data/2025_08_premio_nobel.json"
 ];
 
 // Función reutilizable para cargar todos los cuentos

@@ -1,0 +1,312 @@
+[
+  {
+    "fecha": "2025-05-01",
+    "titulo": "La vida es sueño",
+    "autor": "Calderón de la Barca",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "En una torre vivía un niño,\nSegismundo era su lindo nombre.\nNo sabía por qué estaba allí,\nmiraba el cielo, soñaba el sol.\n\nUn día lo sacan a pasear,\nle dicen: “Tú puedes gobernar”.\nSe enoja, grita, rompe y salta,\ncree que todo es una trampa.\n\nLo devuelven a su rincón,\nllora mucho, siente dolor.\nPero luego vuelve a salir,\nmás tranquilo, empieza a reír.\n\nEs justo, bueno y cariñoso,\nya no quiere ser ruidoso.\nAprendió de su ilusión...\n¡La vida es sueño, qué emoción!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-02",
+    "titulo": "El alcalde de Zalamea",
+    "autor": "Calderón de la Barca",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "En Zalamea hay un señor,\nPedro Crespo, trabajador.\nViven en paz y con calma,\ncon amor cuida su alma.\n\nSoldados llegan sin razón,\nuno actúa con gran traición.\nPedro se pone muy serio,\nquiere justicia sin misterio.\n\nLo hacen alcalde de verdad,\ndefiende a todos con bondad.\nCastiga al malo con firmeza,\nprotege al pueblo con nobleza.\n\nEl rey dice con alegría:\n\"Pedro actuó con valentía\".\nY en Zalamea, desde ese día,\ntodo es paz y melodía.",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-03",
+    "titulo": "Fuenteovejuna",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Fuenteovejuna es un lugar,\ndonde la gente sabe amar.\nTrabajan todos con unión,\nviviendo con el corazón.\n\nPero un señor muy mandón,\nllega y causa gran tensión.\nEl pueblo ya no quiere daño,\ndice “¡Basta!” con gran apaño.\n\nTodos juntos con valor,\nponen fin al opresor.\nPreguntan quién fue el que luchó...\n“¡Fuenteovejuna!” se oyó.\n\nJuntos hablaron con voz fuerte,\nnadie quiso ser diferente.\nY desde ese bello día,\nvivieron con alegría.",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-04",
+    "titulo": "El caballero de Olmedo",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "En Olmedo vivía un galán,\nAlonso, valiente y de buen afán.\nConoció a Inés, dulce y bella,\ny quiso siempre estar con ella.\n\nInés también lo quería,\nle escribía con alegría.\nPero otro, lleno de envidia,\nhizo daño con su perfidia.\n\nAlonso un día no volvió,\nel silencio a Inés abrazó.\nEl amor quedó en el viento,\ncomo un tierno sentimiento.\n\nY aunque su vida terminó,\nsu cariño nunca murió.\nOlmedo lo recordaba,\ny su nombre siempre cantaba.",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-05",
+    "titulo": "Peribáñez y el comendador de Ocaña",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Peribáñez vivía feliz,\ncon su Casilda, flor de anís.\nSe amaban con alegría,\ncada día, noche y día.\n\nUn señor vino con poder,\ny a Casilda quiso tener.\nPero ella, fuerte y valiente,\namó a su esposo para siempre.\n\nPeribáñez, con decisión,\ndefendió su corazón.\nFue valiente y cuidadoso,\nfuerte, firme y muy hermoso.\n\nEl rey escuchó su voz,\nle dio su perdón veloz.\nY en su casa, sin temor,\nvivieron con mucho amor.",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-06",
+    "titulo": "La dama boba",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Finea hablaba despacito,\ny soñaba con su gatito.\nSu hermana era muy despierta,\npero Finea estaba abierta.\n\nConoció a un chico encantado,\nle hablaba lento y pausado.\nCon paciencia y con ternura,\nle mostró la lectura y dulzura.\n\nFinea empezó a aprender,\na sentir y a comprender.\nYa no era la más callada,\nera alegre, despierta y amada.\n\nEl amor le dio alegría,\nsabiduría y poesía.\nTodos vieron su destello...\n¡Finea brilló como un bello cielo!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-07",
+    "titulo": "Las mocedades del Cid",
+    "autor": "Guillén de Castro",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Rodrigo era jovencito,\ncon espada y buen bracito.\nSoñaba con ser guerrero,\nvaliente, fuerte y sincero.\n\nUn hombre a su padre ofendió,\nRodrigo pronto lo enfrentó.\nCon honor ganó la lucha,\ny empezó su gran ruta.\n\nGanó guerras con coraje,\npero sin perder el traje\nde la bondad y el amor,\ncon respeto y gran valor.\n\nEl rey pronto lo escuchó,\ny en su honor confió.\nAsí nació el gran Cid,\n¡un héroe feliz y feliz!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-08",
+    "titulo": "El burlador de Sevilla y convidado de piedra",
+    "autor": "Tirso de Molina",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Don Juan jugaba a engañar,\nno quería nunca amar.\nPrometía sin pensar,\ny hacía a otros llorar.\n\nUna noche hizo un desliz,\ny burló a un hombre gris.\nEse hombre era importante,\ny volvió como gigante.\n\nUna estatua apareció,\na Don Juan lo sorprendió.\nLo llevó sin avisar,\ny le hizo reflexionar.\n\nAprendió que hacer el bien,\nda alegría también.\nY que engañar sin razón,\ntrae pena al corazón.",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-09",
+    "titulo": "Don Gil de las calzas verdes",
+    "autor": "Tirso de Molina",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Juana estaba muy dolida,\nsu promesa no cumplida.\nSu amor se fue con otra flor,\ny ella sintió mucho dolor.\n\nSe vistió con pantalones,\nverdes como los rincones,\nse llamó Don Gil un día,\ny trazó su travesía.\n\nEngañó con gran humor,\ndemostró su gran valor.\nSu ingenio fue brillante,\njusticia, firme y constante.\n\nAl final, con alegría,\ntodo el mundo sonreía.\nJuana fue reconocida...\n¡por su astucia divertida!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-10",
+    "titulo": "El médico de su honra",
+    "autor": "Calderón de la Barca",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Don Gutierre, tan callado,\nestaba muy preocupado.\nPensó que Mencía mentía,\ny eso le dolía el día.\n\nCelos nublan su pensar,\nno la quiso escuchar.\nTomó una dura decisión,\nsin saber toda la razón.\n\nMencía no hizo maldad,\npero él no vio la verdad.\nEl dolor fue su final,\npor no hablar, por hacer mal.\n\nDesde entonces se aprendió:\nel amor se cuida y se habló.\nNo hay que actuar con prisa o ira...\n¡La verdad siempre respira!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-11",
+    "titulo": "El Buscón",
+    "autor": "Francisco de Quevedo",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Pablos quería brillar,\ny a todos impresionar.\nSoñaba con ser señor,\ny vivir con mucho honor.\n\nHizo bromas y enredos,\ntuvo líos y algunos miedos.\nConoció gente muy rara,\nalguna buena, otra no clara.\n\nPlaneaba y planeaba,\npero nada le salía.\nDescubrió que al engañar,\nel corazón no puede amar.\n\nNo todo es oro y riqueza,\nni mentira ni tristeza.\nAl final vio la verdad...\n¡ser bueno da felicidad!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-12",
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Don Quijote, soñador,\nleyó libros con amor.\nQuiso ser caballero,\ndefensor y justiciero.\n\nMontó a Rocinante fiel,\ncon Sancho, su escudero fiel.\nVeía gigantes en molinos,\ny dragones en caminos.\n\nQuería ayudar a todos,\naun cometiendo algunos modos.\nSoñaba con Dulcinea,\ncomo estrella que lo guía.\n\nAunque no todo fue real,\nsu corazón fue leal.\nY así quedó en la memoria...\n¡como un héroe de gran historia!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-13",
+    "titulo": "Novelas ejemplares",
+    "autor": "Miguel de Cervantes",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Muchos cuentos en un libro,\ncon aventuras sin peligro.\nRinconete y Cortadillo,\nvivían sin mucho brillo.\n\nUna niña disfrazada,\nvivía alegre y encantada.\nDos perritos conversaban,\ny mil cuentos nos contaban.\n\nCada historia fue un regalo,\nun espejo y un trabajo.\nValientes, listos, sinceros,\ny también muy compañeros.\n\nCervantes con alegría,\nnos llenó de fantasía.\nY al leer cada renglón...\n¡se despierta el corazón!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-14",
+    "titulo": "La Galatea",
+    "autor": "Miguel de Cervantes",
+    "pais": "España",
+    "epoca": "Siglo XVI",
+    "contenido": "Galatea en el prado,\ncantaba con su rebaño.\nLos pastores la miraban,\nsus canciones la adoraban.\n\nVivía con alegría,\nbajo el sol y en armonía.\nFlores, ríos y caminos,\nacompañaban sus destinos.\n\nMuchos la querían ver,\npero ella sabía qué hacer.\nLibre, dulce, muy sincera,\niba alegre donde quiera.\n\nEn los campos la encontraron,\ny por siempre la cantaron.\nGalatea fue un lucero...\n¡de alma libre y corazón sincero!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-15",
+    "titulo": "La Celestina",
+    "autor": "Fernando de Rojas",
+    "pais": "España",
+    "epoca": "Finales del siglo XV / Comienzos del Siglo de Oro",
+    "contenido": "Calisto se enamoró,\nde Melibea se prendó.\nQuería hablarle un poquito,\npero no hallaba el caminito.\n\nLlamó a Celestina astuta,\nque con trucos lo ejecuta.\nAyudó con su saber,\npero también quiso tener.\n\nLas cosas fueron confusas,\na veces tristes, otras bruscas.\nEl amor no es un juego,\npues el corazón es fuego.\n\nTodos aprendieron claro,\nque el amor es algo raro.\nPero si es puro y honesto...\n¡es el más tierno y perfecto gesto!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-16",
+    "titulo": "El Lazarillo de Tormes",
+    "autor": "Anónimo",
+    "pais": "España",
+    "epoca": "Siglo XVI",
+    "contenido": "Lázaro era un chiquillo,\ncon coraje y con brillo.\nIba de mano en mano,\npor caminos bien temprano.\n\nMaestros tuvo un montón,\nalgunos con mal corazón.\nPasó hambre, rió también,\naprendiendo el bien y el mal bien.\n\nCon astucia y con ingenio,\nsalvó cada pequeño sueño.\nNunca se daba por vencido,\nni aun con el sol perdido.\n\nY creciendo con valor...\n¡encontró su propio color!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-17",
+    "titulo": "La vida del Buscón llamado Don Pablos",
+    "autor": "Francisco de Quevedo",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Pablos era muy curioso,\nsoñador y ambicioso.\nQuería fama y riqueza,\npero sin mucha firmeza.\n\nViajaba con su maleta,\nhacía bromas y tretas.\nA veces la vida reía,\notras veces se torcía.\n\nConocía mil personas,\nbajo sol y bajo sombras.\nAl final vio que el camino,\nno está solo en el destino.\n\nCon astucia y con pasión...\n¡también brilló su corazón!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-18",
+    "titulo": "Los sueños",
+    "autor": "Francisco de Quevedo",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Quevedo, en sueños viajaba,\ncosas extrañas él miraba.\nTodo era como un espejo,\nmágico y algo complejo.\n\nVeía risas, veía enojos,\npersonas con mil antojos.\nSoñaba con la justicia,\ncon la verdad y la astucia.\n\nLo bueno y lo malo veía,\ny al despertar lo entendía.\nAunque el mundo parecía loco...\n¡cada sueño traía un foco!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-19",
+    "titulo": "El Conde Lucanor",
+    "autor": "Don Juan Manuel",
+    "pais": "España",
+    "epoca": "Siglo XIV",
+    "contenido": "El Conde tenía inquietudes,\nquería sabias virtudes.\nPatronio contaba historias,\nllenas de vida y memorias.\n\nUn zorro o un rey salía,\ncada cuento sorprendía.\nCon dragones y princesas,\ny lecciones con sorpresas.\n\nTras oír con atención,\nel Conde tomaba acción.\nY con cada buen consejo...\n¡brillaba como un reflejo!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-20",
+    "titulo": "El Criticón",
+    "autor": "Baltasar Gracián",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Critilo y Andrés viajaban,\ny cosas raras encontraban.\nUno era sabio, el otro curioso,\njuntos hacían buen equipo hermoso.\n\nVeían gente diferente,\nbuena, mala, sorprendentes.\nCada paso era un saber,\ncada error, algo a entender.\n\nCon el tiempo, aprendieron\ncómo vivir y ser buenos.\nY en su largo caminar...\n¡descubrieron cómo pensar!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-21",
+    "titulo": "La Arcadia",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVI",
+    "contenido": "En Arcadia todo es canto,\nflores, cielo y verde manto.\nLos pastores van cantando,\ny su amor van celebrando.\n\nEl río suena tranquilo,\nel ciervo salta en sigilo.\nHay tristeza y alegría,\ncomo en toda poesía.\n\nPero siempre, en cada esquina,\nhay amistad que ilumina.\nArcadia es un bello día...\n¡donde vive la armonía!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-22",
+    "titulo": "Amar después de la muerte",
+    "autor": "Calderón de la Barca",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Tarfe amaba con pasión,\ny guardaba su emoción.\nUn día lo separaron,\ny muy lejos lo llevaron.\n\nPero nunca se rindió,\npor amor siempre luchó.\nCon valor cruzó caminos,\ny venció mil torbellinos.\n\nEl amor fue su bandera,\nsu esperanza verdadera.\nY así, su fuerza demostró...\n¡que el amor nunca murió!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-23",
+    "titulo": "El acero de Madrid",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Belisa fue a un lugar,\nquería su mal curar.\nBuscó agua milagrosa,\ncomo fuente muy hermosa.\n\nAllí encontró a un galán,\njugando a ser otro Don Juan.\nHablaron con picardía,\nrieron con alegría.\n\nAl final se descubrieron,\ny sus nombres ofrecieron.\nCon amor y carcajadas...\n¡terminaron muy enamoradas!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-24",
+    "titulo": "La prudencia en la mujer",
+    "autor": "Tirso de Molina",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "María era una reina,\ncon mirada muy serena.\nSu reino debía cuidar,\ny no se dejó asustar.\n\nPensaba antes de actuar,\ncon dulzura al hablar.\nEra firme y muy prudente,\nun ejemplo inteligente.\n\nGracias a su decisión,\nreinó con el corazón.\nY mostró con gran certeza...\n¡que la calma da fortaleza!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-25",
+    "titulo": "La serrana de la Vera",
+    "autor": "Luis Vélez de Guevara",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Gila vivía en la sierra,\nfuerte como roca y tierra.\nLibre como el viento azul,\ncaminaba bajo el tul.\n\nUn día alguien le hizo mal,\ny se escondió en su portal.\nDesde entonces fue valiente,\ncon mirada muy potente.\n\nCuidaba su libertad,\ncon respeto y dignidad.\nFue heroína del lugar...\n¡y su historia va a durar!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-26",
+    "titulo": "El diablo cojuelo",
+    "autor": "Luis Vélez de Guevara",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Un diablillo fue liberado,\npodía volar a su lado.\nUn estudiante lo seguía,\ny por Madrid lo conducía.\n\nVieron casas y tejados,\nsecretos bien guardados.\nGente que reía y lloraba,\ny también quien solo soñaba.\n\nEl diablo era travieso,\npero alegre y muy sabueso.\nEl muchacho lo escuchó...\n¡y con mil cuentos regresó!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-27",
+    "titulo": "Entremeses",
+    "autor": "Miguel de Cervantes",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Cuentos breves y con risa,\ncon palabras que dan brisa.\nUn doctor algo chiflado,\nun soldado despistado.\n\nUna boda muy graciosa,\nuna viejita curiosa.\nTodos hablan, se tropiezan,\ny al final nos enduliezan.\n\nPequeños teatros son,\nque alegran el corazón.\n¡Cervantes hizo brillar...\nla alegría de actuar!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-28",
+    "titulo": "El rufián dichoso",
+    "autor": "Tirso de Molina",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Vivía en calles oscuras,\ncon trampas y mil locuras.\nRobaba sin compasión,\nno escuchaba al corazón.\n\nUn día cambió su andar,\nalgo lo hizo pensar.\nDejó la maldad atrás,\ny buscó la buena paz.\n\nAyudó con alegría,\nrezó noche y día.\nY mostró con su bondad...\n¡que siempre se puede cambiar!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-29",
+    "titulo": "La estrella de Sevilla",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Estrella era una doncella,\nbuena, noble y muy bella.\nEl rey quiso conquistarla,\npero no pudo engañarla.\n\nElla amaba con verdad,\nsin mentiras ni maldad.\nSu hermano, con gran honor,\ndefendió su gran valor.\n\nPasó drama, hubo tensión,\npero ganó el corazón.\nY su nombre con destreza...\n¡brilló como una princesa!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-30",
+    "titulo": "La devoción de la cruz",
+    "autor": "Pedro Calderón de la Barca",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Un niño fue abandonado,\npero con amor criado.\nLlevaba una cruz consigo,\ncomo símbolo y abrigo.\n\nVivió muchas aventuras,\nunas buenas, otras duras.\nSiempre seguía esa señal,\nque lo guiaba sin mal.\n\nAl final halló el perdón,\ny sintió paz en su corazón.\nLa cruz le mostró el camino...\n¡con cariño y buen destino!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  },
+  {
+    "fecha": "2025-05-31",
+    "titulo": "El perro del hortelano",
+    "autor": "Lope de Vega",
+    "pais": "España",
+    "epoca": "Siglo XVII",
+    "contenido": "Diana era muy mandona,\nuna condesa algo envidiosa.\nNo quería que su criado,\namara a quien había amado.\n\nJugaba con sus deseos,\ncomo el sol entre los velos.\nPero el amor es travieso,\n¡y a veces también sabroso!\n\nDiana al fin comprendió,\nque el corazón decidió.\nY dejando su orgullo...\n¡descubrió el amor suyo!",
+    "edad": "0-2 años",
+    "series": [ "Siglo de Oro español" ]
+  }
+]
